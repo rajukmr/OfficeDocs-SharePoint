@@ -27,7 +27,7 @@ If you already have [Microsoft 365 learning pathways](/office365/customlearning/
 
 The SharePoint Success Site's up-to-date CDN includes a range of content that helps new users and existing site owners plan, build, and manage SharePoint sites:
 
-- **Plan your site:** Guidance on how to plan a site, including what type of SharePoint site to use, access rights, and permission strategy
+- **Plan your site:** Test Guidance on how to plan a site, including what type of SharePoint site to use, access rights, and permission strategy
 - **Create your site:** Content that helps new site owners create their site, including how to brand and customize their site and how to add content
 - **Share and manage your site:** Guidance to help launch, share, and manage the new site
 - **Advanced site creation:** Content for site owners that want to learn beyond site creation basics
